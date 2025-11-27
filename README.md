@@ -1,5 +1,7 @@
 # Two-Player Chess Game
 
+![Chess Game Screenshot](Screenshots/main-game.png)
+
 A functional chess game built with Python and Pygame featuring a turn-based clock system and a forfeit button.
 
 ## About
@@ -18,6 +20,17 @@ This project is based on the tutorial [Python/Pygame Chess Game Tutorial](https:
 - Turn-based clock system (tracks individual player time and pauses when opponent's turn)
 - Game timer (tracks time since current game started)
 - Forfeit option
+
+### Screenshots
+
+![Valid Moves](Screenshots/valid-moves.png)
+*Valid move highlighting in action*
+
+![Clock System](Screenshots/clock-timer.png)
+*Turn-based clock tracking player time*
+
+![Check Detection](Screenshots/check-alert.gif)
+*Visual check alert on the king*
 
 ## Requirements
 - Python 3.x
