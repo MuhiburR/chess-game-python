@@ -64,6 +64,3 @@ python Chess.py
 
 ## Credits
 Base game tutorial: [Python/Pygame Chess Game](https://www.youtube.com/watch?v=X-e0jk4I938)
-
-## License
-This project is for educational purposes.
